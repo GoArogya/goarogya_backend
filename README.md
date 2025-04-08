@@ -47,5 +47,5 @@ The Goarogy Backend serves as the core engine of the Goarogy web app. It perform
 1. Clone the repository:
 
    ```bash
-   git clone [https://github.com/GoArogya/goarogya_backend.git]
+   git clone https://github.com/GoArogya/goarogya_backend.git
    cd goarogy-backend
